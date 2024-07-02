@@ -1,6 +1,6 @@
 # Project 09: Machine Learning in Business
  
-**Objective:** Determine which among three regions strikes the best balance between being a profitable and a low-risk location for the development of new oil wells by the mining company OilyGiant.
+**Objective:** To determine which among three regions strikes the best balance between being a profitable and a low-risk location for the development of new oil wells by the mining company OilyGiant.
 
 **Accomplishments:** To pass this project, I needed to identify at least one region with a risk of losses no greater than 2.5%. For each region, I used bootstrapping with 1000 samples of 200 randomly selected locations, and I discovered that exactly one region fits this description, with a risk of losses of only 1.5%. 
 
