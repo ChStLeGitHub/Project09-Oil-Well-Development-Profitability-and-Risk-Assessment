@@ -1,4 +1,4 @@
-# Project 09: Oil Well Development Profitability and Risk Assessment
+# Oil Well Development Profitability and Risk Assessment
  
 **Objective:** To determine which among three regions strikes the best balance between being a profitable and a low-risk location for the development of new oil wells by the mining company OilyGiant.
 
